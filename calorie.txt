@@ -1,0 +1,73 @@
+[
+  {
+"id":1,
+    "name": "bacon",
+    "calories": 466.4,
+   
+  },
+ {
+"id":2,
+    "name": "apple",
+    "calories": 53,
+   
+  },
+{
+"id":3,
+    "name": "orange",
+    "calories": 50.4,
+ },
+ {
+"id":4,
+    "name": "banana",
+    "calories": 89.4,
+  
+  },
+{
+"id":5,
+    "name": "pork",
+    "calories": 236.2,
+   
+  },
+{
+"id":6,
+    "name": "beef",
+    "calories": 291.9,
+   
+  },
+{
+"id":7,
+    "name": "noodle",
+    "calories": 162.4,
+  
+  },
+{
+"id":8,
+    "name": "rice",
+    "calories": 127.4,
+  
+  },
+{
+"id":9,
+    "name": "burger",
+    "calories": 237.7,
+  
+  },
+{
+"id":10,
+    "name": "sandwich",
+    "calories": 269.5,
+   
+  },
+{
+"id":11,
+    "name": "fish",
+    "calories": 129.2,
+ 
+  },
+{
+"id":12,
+    "name": "lamb",
+    "calories": 301.2,
+  
+  }
+]
