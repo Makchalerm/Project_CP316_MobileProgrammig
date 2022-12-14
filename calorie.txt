@@ -1,73 +1,73 @@
 [
   {
-"id":1,
+    "id":1,
     "name": "Bacon",
-    "calories": 466.4
+    "calories": 466.4 KCal
    
   },
  {
-"id":2,
+    "id":2,
     "name": "Apple",
-    "calories": 53
+    "calories": 53 KCal
    
   },
 {
-"id":3,
+    "id":3,
     "name": "Orange",
-    "calories": 50.4
+    "calories": 50.4 KCal
  },
  {
-"id":4,
+    "id":4,
     "name": "Banana",
-    "calories": 89.4
+    "calories": 89.4 KCal
   
   },
 {
-"id":5,
+    "id":5,
     "name": "Pork",
-    "calories": 236.2
+    "calories": 236.2 KCal
    
   },
 {
-"id":6,
+    "id":6,
     "name": "Beef",
-    "calories": 291.9
+    "calories": 291.9 KCal
    
   },
 {
-"id":7,
+    "id":7,
     "name": "Noodle",
-    "calories": 162.4
+    "calories": 162.4 KCal
   
   },
 {
-"id":8,
+    "id":8,
     "name": "Rice",
-    "calories": 127.4
+    "calories": 127.4 KCal
   
   },
 {
-"id":9,
+    "id":9,
     "name": "Burger",
-    "calories": 237.7
+    "calories": 237.7 KCal
  
   },
 {
-"id":10,
+    "id":10,
     "name": "Sandwich",
-    "calories": 269.5
+    "calories": 269.5 KCal
    
   },
 {
-"id":11,
+    "id":11,
     "name": "Fish",
-    "calories": 129.2
+    "calories": 129.2 KCal
  
   },
 {
-"id":12,
+    "id":12,
     "name": "Lamb",
-    "calories": 301.2
+    "calories": 301.2 KCal
   
   }
 ]
