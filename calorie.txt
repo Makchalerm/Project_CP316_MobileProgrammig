@@ -112,13 +112,6 @@
       "light": "https://a.espncdn.com/i/leaguelogos/soccer/500/2336.png"
    },
    {
-      "id": "uga.1",
-      "name": "Ugandan Super League",
-      "slug": "ugandan-super-league",
-      "abbr": "USL",
-      "light": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/default-team-logo-500.png&w=100&h=100"
-   },
-   {
       "id": "arg.1",
       "name": "Argentine Liga Profesional de Fútbol",
       "slug": "argentine-liga-profesional-de-futbol",
